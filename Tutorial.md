@@ -15,6 +15,10 @@ A lista de cima não é ordenada, mas é possível criar uma.
     2. Subitem B2
 3. Item C
 
+Também dá para criar check-boxes:
+- [ ] Essa box não está marcada!
+- [x] Essa box está marcada!
+
 Também é possível criar tabelas em Markdown
 
 | Coluna 1 | Coluna 2 |
